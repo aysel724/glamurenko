@@ -38,7 +38,7 @@ h3 {
   line-height: 1.1;
   color: rgb(255, 255, 255);
   position: absolute;
-  top: 42%;
+  top: 50%;
   left: 5%;
   transform: translate(-50% -50%);
 }
@@ -227,6 +227,11 @@ a {
   color: #fff;
   text-decoration: none;
 }
+
+ul {
+  padding-left: 2%;
+}
+
 li {
   list-style: none;
 }
