@@ -123,6 +123,7 @@ table a {
 .btn {
   margin: 10px;
 }
+
 .cards {
   margin: 2%;
   display: flex;
@@ -144,6 +145,17 @@ table a {
 .card-text {
   text-align: left;
 }
+.final-price {
+  font-weight: 500;
+}
+.basket-icon {
+  padding: 5px;
+  opacity: 0;
+}
+.basket-icon:hover {
+  opacity: 1;
+}
+
 .book-section {
   margin-top: 2%;
 }
